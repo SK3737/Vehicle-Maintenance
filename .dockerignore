@@ -1,0 +1,11 @@
+myenv/
+__pycache__/
+*.pyc
+.agents/
+notebooks/
+training/
+_archive/
+data/raw/
+data/service_history.json
+tests/
+*.ipynb

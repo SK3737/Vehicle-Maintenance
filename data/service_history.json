@@ -1,0 +1,144 @@
+{
+  "TEST_V001": {
+    "metadata": {
+      "make": "Honda",
+      "vehicle_model": "Civic",
+      "year": 2021,
+      "fuel_type": "petrol"
+    },
+    "events": [
+      {
+        "event_id": "ead811fd",
+        "service_date": "2025-11-01",
+        "odometer_km": 45000.0,
+        "service_type": "oil_change"
+      },
+      {
+        "event_id": "10876379",
+        "service_date": "2025-11-01",
+        "odometer_km": 45000.0,
+        "service_type": "oil_change"
+      },
+      {
+        "event_id": "2bb7e6ac",
+        "service_date": "2026-04-01",
+        "odometer_km": 50000.0,
+        "service_type": "oil_change"
+      },
+      {
+        "event_id": "663fa5e0",
+        "service_date": "2026-04-01",
+        "odometer_km": 50000.0,
+        "service_type": "oil_change"
+      },
+      {
+        "event_id": "fd41d97c",
+        "service_date": "2025-11-01",
+        "odometer_km": 45000.0,
+        "service_type": "oil_change"
+      },
+      {
+        "event_id": "9ad23d76",
+        "service_date": "2025-11-01",
+        "odometer_km": 45000.0,
+        "service_type": "oil_change"
+      },
+      {
+        "event_id": "ebde7e17",
+        "service_date": "2026-04-01",
+        "odometer_km": 50000.0,
+        "service_type": "oil_change"
+      },
+      {
+        "event_id": "a30ef5b0",
+        "service_date": "2026-04-01",
+        "odometer_km": 50000.0,
+        "service_type": "oil_change"
+      },
+      {
+        "event_id": "9c94e4fb",
+        "service_date": "2025-11-01",
+        "odometer_km": 45000.0,
+        "service_type": "oil_change"
+      },
+      {
+        "event_id": "95121941",
+        "service_date": "2025-11-01",
+        "odometer_km": 45000.0,
+        "service_type": "oil_change"
+      },
+      {
+        "event_id": "f5908b68",
+        "service_date": "2026-04-01",
+        "odometer_km": 50000.0,
+        "service_type": "oil_change"
+      },
+      {
+        "event_id": "47cd1f1a",
+        "service_date": "2026-04-01",
+        "odometer_km": 50000.0,
+        "service_type": "oil_change"
+      }
+    ]
+  },
+  "V002": {
+    "metadata": {
+      "make": "Toyota",
+      "vehicle_model": "Corolla",
+      "year": 2020,
+      "fuel_type": "petrol"
+    },
+    "events": [
+      {
+        "event_id": "56689bc8",
+        "service_date": "2025-11-01",
+        "odometer_km": 45000.0,
+        "service_type": "oil_change"
+      }
+    ]
+  },
+  "V001": {
+    "metadata": {
+      "make": "Toyota",
+      "vehicle_model": "Corolla",
+      "year": 2020,
+      "fuel_type": "petrol"
+    },
+    "events": [
+      {
+        "event_id": "cf4a7fac",
+        "service_date": "2025-11-01",
+        "odometer_km": 45000.0,
+        "service_type": "oil_change"
+      },
+      {
+        "event_id": "7274f851",
+        "service_date": "2026-05-01",
+        "odometer_km": 54800.0,
+        "service_type": "full_service"
+      },
+      {
+        "event_id": "bdb3d637",
+        "service_date": "2025-11-01",
+        "odometer_km": 45000.0,
+        "service_type": "oil_change"
+      }
+    ]
+  },
+  "V005": {
+    "metadata": {
+      "make": "Toyota",
+      "vehicle_model": "Samruddhee",
+      "year": 2020,
+      "fuel_type": "petrol"
+    },
+    "events": [
+      {
+        "event_id": "21262a57",
+        "service_date": "2025-11-01",
+        "odometer_km": 45000.0,
+        "service_type": "oil_change"
+      }
+    ]
+  }
+}

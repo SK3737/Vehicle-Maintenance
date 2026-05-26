@@ -1,0 +1,29 @@
+{
+  "version": "v1",
+  "features": [
+    "months_driven",
+    "total_kms_driven"
+  ],
+  "targets": [
+    "days_until_service",
+    "kms_until_service"
+  ],
+  "winner": "DecisionTreeRegressor",
+  "test_size": 0.2,
+  "candidates": {
+    "LinearRegression": {
+      "metrics": {
+        "days_until_service": 2.09,
+        "kms_until_service": 122.31,
+        "mean_mae": 62.2
+      }
+    },
+    "DecisionTreeRegressor": {
+      "metrics": {
+        "days_until_service": 1.97,
+        "kms_until_service": 111.84,
+        "mean_mae": 56.91
+      }
+    }
+  }
+}

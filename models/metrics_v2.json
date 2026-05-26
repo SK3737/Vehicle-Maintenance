@@ -1,0 +1,35 @@
+{
+  "version": "v2",
+  "numeric_features": [
+    "months_driven",
+    "total_kms_driven",
+    "year"
+  ],
+  "categorical_features": [
+    "make",
+    "fuel_type",
+    "last_service_type"
+  ],
+  "targets": [
+    "days_until_service",
+    "kms_until_service"
+  ],
+  "winner": "RandomForestRegressor",
+  "test_size": 0.2,
+  "candidates": {
+    "DecisionTreeRegressor": {
+      "metrics": {
+        "days_until_service": 16.47,
+        "kms_until_service": 959.07,
+        "mean_mae": 487.77
+      }
+    },
+    "RandomForestRegressor": {
+      "metrics": {
+        "days_until_service": 12.8,
+        "kms_until_service": 693.46,
+        "mean_mae": 353.13
+      }
+    }
+  }
+}
